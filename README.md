@@ -60,3 +60,12 @@ Query multiple PDFs using LLM integration with Streamlit interface.
 ---
 
 ⭐️ *“Code, Learn, Innovate – Repeat.”*  
+---
+
+## 📊 GitHub Stats
+
+![Sartaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=SartajAhamad&show_icons=true&theme=tokyonight)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SartajAhamad&layout=compact&theme=tokyonight)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SartajAhamad&theme=tokyonight)  
