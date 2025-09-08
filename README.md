@@ -9,7 +9,7 @@ I am a passionate **Software Developer** with experience in building robust back
 I love working with **databases (SQL, SQLite, MongoDB)**, exploring **Data Science & Machine Learning**, and continuously upskilling to stay ahead in the tech world.  
 
 - 🎓 B.Tech in Information Technology (2020-2024) – CCS University, Meerut  
-- 💼 Currently working as an **Associate Software Developer** at **  Createch Software Pvt Ltd**  
+- 💼 Currently working as an **Associate Software Developer** at **Createch Software Pvt Ltd**  
 - 📚 Completed **Python Full Stack Development Training** at Q-Spider  
 - 🔥 Interests: Python Development, Data Science, Machine Learning, and AI  
 
@@ -27,19 +27,19 @@ I love working with **databases (SQL, SQLite, MongoDB)**, exploring **Data Scien
 ---
 
 ## 📂 Projects
-### 🔹 [Tweet Application (Django)](https://github.com/your-repo-link)
+### 🔹 [Tweet Application (Django)](https://github.com/sartaj05/Tweet-Application)
 A web app for creating, editing, viewing, and deleting tweets with user authentication.  
 
-### 🔹 [Library Management System (Flask + SQLite)](https://github.com/your-repo-link)
+### 🔹 [Library Management System (Flask + SQLite)](https://github.com/sartaj05/Library-Management-System)
 Manages books, members, borrow/return records, and visualizes insights using Matplotlib.  
 
-### 🔹 [To-Do Application (Python CLI)](https://github.com/your-repo-link)
+### 🔹 [To-Do Application (Python CLI)](https://github.com/sartaj05/To-Do-Application)
 A command-line app with persistent task management using file handling.  
 
-### 🔹 [Interactive Excel Dashboard](https://github.com/your-repo-link)
+### 🔹 [Interactive Excel Dashboard](https://github.com/sartaj05/Excel-Interactive-Dashboard)
 Dynamic dashboard for sales insights, trends, and visual analytics.  
 
-### 🔹 [AI Chat Application (Streamlit + Hugging Face)](https://github.com/your-repo-link)
+### 🔹 [AI Chat Application (Streamlit + Hugging Face)](https://github.com/sartaj05/AI-Chat-Application)
 Query multiple PDFs using LLM integration with Streamlit interface.  
 
 ---
@@ -54,13 +54,12 @@ Query multiple PDFs using LLM integration with Streamlit interface.
 
 ## 📫 Connect with Me
 - 📧 Email: [sartajahamad42889@gmail.com](mailto:sartajahamad42889@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/sartaj-ahamad](https://www.linkedin.com/in/sartaj-ahamad)  
-- 🐙 GitHub: [github.com/SartajAhamad](https://github.com/SartajAhamad)  
+- 🔗 LinkedIn: [linkedin.com/in/sartaj-ahamad-243234215](https://www.linkedin.com/in/sartaj-ahamad-243234215/)  
+- 🐙 GitHub: [github.com/sartaj05](https://github.com/sartaj05)  
 
 ---
 
 ⭐️ *“Code, Learn, Innovate – Repeat.”*  
----
 
 ---
 
@@ -71,4 +70,3 @@ Query multiple PDFs using LLM integration with Streamlit interface.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sartaj05&layout=compact&theme=tokyonight)  
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sartaj05&theme=tokyonight)  
-
