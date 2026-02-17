@@ -53,7 +53,7 @@ Query multiple PDFs using LLM integration with Streamlit interface.
 ---
 
 ## 📫 Connect with Me
-- 📧 Email: [sartajahamad42889@gmail.com](mailto:sartajahamad42889@gmail.com)  
+- 📧 Email: [sartajahamad0502@gmail.com](mailto:sartajahamad0502@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/sartaj-ahamad-243234215](https://www.linkedin.com/in/sartaj-ahamad-243234215/)  
 - 🐙 GitHub: [github.com/sartaj05](https://github.com/sartaj05)  
 
