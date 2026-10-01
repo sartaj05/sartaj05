@@ -8,8 +8,8 @@
 I am a passionate **Software Developer** with experience in building robust backend applications using **Python, Django, Flask, and FastAPI**, along with hands-on practice in **frontend development** using HTML, CSS, and JavaScript.  
 I love working with **databases (SQL, SQLite, MongoDB)**, exploring **Data Science & Machine Learning**, and continuously upskilling to stay ahead in the tech world.  
 
-- 🎓 B.Tech in Information Technology (2020-2024) – CCS University, Meerut  
 - 💼 Currently working as an **Associate Software Developer** at **Createch Software Pvt Ltd**  
+- 🎓 B.Tech in Information Technology (2020-2024) – CCS University, Meerut  
 - 📚 Completed **Python Full Stack Development Training** at Q-Spider  
 - 🔥 Interests: Python Development, Data Science, Machine Learning, and AI  
 
